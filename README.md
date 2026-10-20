@@ -13,7 +13,7 @@ Description: Give examples of BERT word embeddings.
 
 Recommendation: run the code on Google Colab.
 
-Option1: 
+Option1: 1. Open Google Colaboratory in your browser. 2. Click on the “Upload” button. 3. Here you can either drag the downloaded notebook in or Navigate to the folder where you uploaded the Jupyter notebook in step 2 and select the notebook file. 4. Wait for the notebook to load in Colab.
 
 Option2: 
 
